@@ -7,7 +7,7 @@ My name is Tim Fraedrich. I am a student at the University of New Haven studying
 
 Programming Languages: C / C++ / C# / Java / SQL
 
-Game Engines: Unity / Unreal
+Game Engines: Unity
 
 Digital Audio Workstations: Pro Tools, Logic
 
